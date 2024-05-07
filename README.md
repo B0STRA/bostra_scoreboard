@@ -1,8 +1,8 @@
-![bostra_scoreboard](https://github.com/B0STRA/bostra_status/assets/119994243/853ba1cd-d461-4a7d-bbb3-89ea2cdee578)
+![bostra_scoreboard](https://github.com/B0STRA/bostra_scoreboard/assets/119994243/a17373ed-991f-4945-8dca-50d5388d4380)
 
 # bostra_scoreboard
 
-FiveM QB-Core ox_lib based scoreboard
+FiveM ox_lib based scoreboard
 
 ## Features
 - Utilizes ox_lib text ui, callbacks, caching, classes and utility functions for optimization
@@ -10,7 +10,7 @@ FiveM QB-Core ox_lib based scoreboard
 - Toggleable or timer function based closing of the scoreboard
 - 3D draw text is attached to the player's head bone preventing stacked IDs in vehicles etc
 - Configurable player count
-- Configurable job counts by job type or job name
+- Configurable job counts by job type or job name (QB-Core only)
 
 
 ## Dependencies
@@ -20,9 +20,6 @@ FiveM QB-Core ox_lib based scoreboard
 1. Drag the `bostra_scoreboard` folder into your resources.
 2. Ensure `ox_lib` is started **before** `bostra_scoreboard`.
 3. Enjoy
-
-## Preview
--
 
 ## Known Issues
 - None
